@@ -178,7 +178,7 @@ form {
 }
 
 h1 {
-  font: 38px 'District Thin', helvetica, arial;
+  font: 38px;
   font-weight: lighter;
   margin: 20px 0;
   color: #333;
@@ -305,7 +305,9 @@ li {
 }
 
 .details .options p {
-  margin: 10px 0;
+  /* margin: 10px 0; */
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .details .options a {
