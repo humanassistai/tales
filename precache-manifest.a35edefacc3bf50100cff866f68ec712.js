@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/tales/static/js/runtime~main.c08bbe01.js"
   },
   {
-    "revision": "42c6f733a91e03554af4",
+    "revision": "780425a3ed072bed24fd",
     "url": "/tales/static/js/main.738d8b75.chunk.js"
   },
   {
-    "revision": "4e1da6216714d4b2e451",
-    "url": "/tales/static/js/2.c8843ced.chunk.js"
+    "revision": "2f3bc3ec8d2982df8d9a",
+    "url": "/tales/static/js/2.d884b971.chunk.js"
   },
   {
-    "revision": "42c6f733a91e03554af4",
-    "url": "/tales/static/css/main.9e1266c3.chunk.css"
+    "revision": "780425a3ed072bed24fd",
+    "url": "/tales/static/css/main.37adf1cb.chunk.css"
   },
   {
-    "revision": "35e83d9bea975039fd61e51ee12cc534",
+    "revision": "ac9b62b5de7273d8f1ae97889e6ed589",
     "url": "/tales/index.html"
   }
 ];
